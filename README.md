@@ -21,6 +21,9 @@ payoff_T=max⁡(K-R^worst,0)
 	Call on best return with cap and floor
  
 
-Reference:
+References:
+
 https://finpricing.com/lib/EqPerform.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjNzQzM4MTPkl0av9mY
 
